@@ -38,7 +38,11 @@
 
 ## Video Demo
 
-   Watch the https://drive.google.com/file/d/1bSkNL8I62iiSqShYQzYqj604v6nmMzfi/view?usp=sharing to see the app in action.
+   Watch the video - https://drive.google.com/file/d/1H38cjJAwIk20XE-bhkwU_ATerGyETQeP/view?usp=sharing to see the app in action.
+
+
+https://github.com/NoaGilboa/24B10234-NoaGilboa-206375057-LoginApp/assets/143444119/a76bbbea-85d6-42d4-9456-6a48172733f3
+
 
 ## Files
 
