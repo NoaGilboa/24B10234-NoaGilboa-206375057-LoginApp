@@ -1,5 +1,5 @@
 
-```markdown
+
 # LoginApp
 
    LoginApp is an Android application that requires users to enter a password based on the device's battery percentage.
@@ -71,4 +71,3 @@
 
       Launcher icon assets.
 
-```
